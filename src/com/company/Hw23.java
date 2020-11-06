@@ -1,6 +1,6 @@
 package com.company;
 
-public class hw23 {
+public class Hw23 {
     public static void main(String[] args) {
         int randomNum, square, min, max;
 

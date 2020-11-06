@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class hw26 {
+public class Hw26 {
     public static void main(String[] args) {
         int day;
 

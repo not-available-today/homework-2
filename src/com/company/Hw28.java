@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class hw28 {
+public class Hw28 {
     public static void main(String[] args) {
         double radius, perimeter, area;
         int userInput;

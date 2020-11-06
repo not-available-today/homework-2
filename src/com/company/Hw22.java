@@ -1,6 +1,6 @@
 package com.company;
 
-public class hw22 {
+public class Hw22 {
 
     public static void main(String[] args) {
         int a, b, min, max, product;

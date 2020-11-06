@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class hw27 {
+public class Hw27 {
     public static void main(String[] args) {
         String monthName;
         Scanner input = new Scanner(System.in);

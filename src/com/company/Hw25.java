@@ -3,7 +3,7 @@ package com.company;
 import java.util.Random;
 import java.util.Scanner;
 
-public class hw25 {
+public class Hw25 {
     public static void main(String[] args) {
         int rand1, rand2, max;
         String operator;

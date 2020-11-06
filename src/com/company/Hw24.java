@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class hw24 {
+public class Hw24 {
     public static void main(String[] args) {
         int num, randomGt, randomLt;
         Scanner userInput = new Scanner(System.in);

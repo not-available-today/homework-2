@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class hw29 {
+public class Hw29 {
     public static void main(String[] args) {
         int a, b, c, d, e, f;
         Scanner input = new Scanner(System.in);
@@ -21,6 +21,8 @@ public class hw29 {
         }else if (c == d || e == f || c == f || d == e) {
             System.out.println("Result: true");
         }
+
     }
+
 
 }
